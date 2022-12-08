@@ -21,10 +21,31 @@
 
 
 
-
 <ul dir="auto">
   <li><img src="https://github.com/Gapur/Gapur/raw/main/assets/letterbox.gif?raw=true" width="20" height="20"> How to reach me <a href="mailto:zmontsaer@gmail.com">zmontsaer@gmail.com</a></li>
 </ul>
+
+
+<br clear="both">
+
+<h3 align="left">Technologies</h3>
+
+<div >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+    <img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" height="32" width="auto" alt="vue logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"  width="42" alt="node logo" />
+  <img src="https://docs.nestjs.com/assets/logo-small.svg"  width="32" alt="nest logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/2560px-JQuery-Logo.svg.png" width="100" alt="jquery logo"  />
+  <img src="https://cdn.dribbble.com/users/1057/screenshots/5978248/media/42dfef899b367d4b66eff3e9d2c6460e.jpg?compress=1&resize=400x300&vertical=top" height="30" width="auto" alt="pugjs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height="30" width="42" alt="sass logo"  />
+    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" height="30" width="auto" alt="mongo logo"  />
+ 
+</div>
 
 
 <br clear="both">
@@ -41,19 +62,5 @@
 
 
 <br clear="both">
-<br clear="both">
 
-
-<div >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-</div>
-
-
-<br clear="both">
 
